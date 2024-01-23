@@ -1,0 +1,15 @@
+h1{
+    font-family: "Ubuntu", sans-serif;
+    padding: 20px;
+    color: white;
+    border-radius: 5px;
+    text-align: center;
+}
+
+.yes {
+    background-color: rgb(8, 158, 16);
+}
+
+.no{
+    background-color: brown;
+}
